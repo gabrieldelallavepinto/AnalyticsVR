@@ -33,15 +33,12 @@
 
                 <h2 class="mb-4">¿Qué es ANBUSVR?</h2>
 
-
                 <div class="text-justify">
                     <p>ANBUSVR es una aplicación de análisis, tratamiento y representación de datos a través de la Realidad Virtual destinada a las empresas.</p>
                     <p>Estos sistemas virtuales son mas completos que cualquier otro sistema de computación, nos permite conseguir recrear la realidad e interactuar con ella, y a su vez, nos permite obtener y analizar una gran cantidad de datos reales con una mayor fiabilidad.</p>
                     <p></p>
 
                 </div>
-
-
 
             </div>
         </div>
@@ -101,14 +98,14 @@
 
         <div class="container py-5">
             <div class="row justify-content-between">
-                <div class="col-6 text-left align-self-center">
+                <div class="col-md-6 col-sm-12 text-left align-self-center">
                     <h2 class="card-title">Aplicación web</h2>
                     <div>
                         Sitio personal para ver la analítica de todos los objetos de sus proyectos en cualquier lugar y en cualquier momento.
                     </div>
                 </div>
-                <div class="col-6 text-right align-self-center">
-                    <img src="images/icons/4.png" alt="4" width="500" height="500">
+                <div class="col-md-6 col-sm-12 text-right align-self-center">
+                    <img class="img-fluid" alt="Responsive image" src="images/icons/4.png" alt="4" width="500" height="500">
                 </div>
             </div>
         </div>
